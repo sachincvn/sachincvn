@@ -12,7 +12,7 @@ Hi there! 👋 I'm passionate about mobile and web development. Currently explor
 - Xamarin Forms
 - .NET MAUI
 - Android (Java, Kotlin)
-- Currently learning Flutter
+- Flutter
 
 ## 🌐 Web Development
 - HTML, CSS, JS
