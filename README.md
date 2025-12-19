@@ -46,6 +46,7 @@ Built with **Material 3**, powered by a **native Android media player**, and des
 
 ## 📫 Let's Connect
 
-📧 **sachincvn962@gmail.com**  
-💼 **https://github.com/sachincvn**
+📧 **Email:** sachincvn962@gmail.com  
+💼 **GitHub:** https://github.com/sachincvn  
 𝕏 **X (Twitter):** https://x.com/sachin___chavan
+
